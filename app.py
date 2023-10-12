@@ -1,4 +1,5 @@
-from bs4 import BeautifulSoup 
+"""import chromedriver from https://chromedriver.chromium.org/downloads"""
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
